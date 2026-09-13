@@ -49,3 +49,6 @@ To deliver an interactive tool that:\
 - **Regional Strategy:** Country-level filtering reveals which markets are growing or declining month-over-month.
 - **Product Mix Optimization:** Category filters (Bars, Bites, Other) show which product lines drive the most profit per box shipped.
 - **Operational Efficiency:** The shipment histogram and Lbs% gauge help flag inefficient shipping patterns early.
+
+## Screenshots
+ ![Dashboard Preview](https://github.com/kapil-1016/Chocolate_Sales-Dashboard/blob/main/Chocolates_sales.png)
